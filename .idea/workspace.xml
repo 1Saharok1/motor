@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="814bbfd5-b9da-4748-98ae-69e6b767bdb2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27pNzbF8CD9DhKRZ5fXci1UM77e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ttdricp\Desktop\motor shop\assignment2\html" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js (1)">
+    <configuration name="about.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63343/elaman_web/assignment2/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/elaman_web/assignment2/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="contact.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assignment2/js/contact.js" working-dir="$PROJECT_DIR$/assignment2/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="gallery.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assignment2/js/gallery.js" working-dir="$PROJECT_DIR$/assignment2/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assignment2/server.js" working-dir="$PROJECT_DIR$/assignment2">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assignment2/js/server.js" working-dir="$PROJECT_DIR$/assignment2/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.gallery.js" />
+        <item itemvalue="Node.js.contact.js" />
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="814bbfd5-b9da-4748-98ae-69e6b767bdb2" name="Changes" comment="" />
+      <created>1650013333275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650013333275</updated>
+      <workItem from="1650013334440" duration="49000" />
+      <workItem from="1650352359111" duration="373000" />
+      <workItem from="1650372826327" duration="401000" />
+      <workItem from="1650705746266" duration="2111000" />
+      <workItem from="1650709835160" duration="1033000" />
+      <workItem from="1650711106052" duration="49000" />
+      <workItem from="1650711169496" duration="8000" />
+      <workItem from="1650711228018" duration="328000" />
+      <workItem from="1650711708963" duration="2716000" />
+      <workItem from="1650789499600" duration="2881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
